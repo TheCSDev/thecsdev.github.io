@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Minecraft 1.20.6",
+		"url": "https://gh.thecsdev.com/cdn/releases/tcdcommons/1.20.6/index.json"
+	},
+	{
+		"name": "Minecraft 1.20.5",
+		"url": "https://gh.thecsdev.com/cdn/releases/tcdcommons/1.20.5/index.json"
+	},
+	{
+		"name": "Minecraft 1.20.4",
+		"url": "https://gh.thecsdev.com/cdn/releases/tcdcommons/1.20.4/index.json"
+	},
+	{
+		"name": "Minecraft 1.20.2",
+		"url": "https://gh.thecsdev.com/cdn/releases/tcdcommons/1.20.2/index.json"
+	},
+	{
+		"name": "Minecraft 1.20.1",
+		"url": "https://gh.thecsdev.com/cdn/releases/tcdcommons/1.20.1/index.json"
+	}
+]
