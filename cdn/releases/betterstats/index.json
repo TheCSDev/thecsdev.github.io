@@ -1,5 +1,9 @@
 [
 	{
+		"name": "Minecraft 1.21",
+		"url": "https://gh.thecsdev.com/cdn/releases/betterstats/1.21/index.json"
+	},
+	{
 		"name": "Minecraft 1.20.6",
 		"url": "https://gh.thecsdev.com/cdn/releases/betterstats/1.20.6/index.json"
 	},
