@@ -1,5 +1,9 @@
 [
 	{
+		"name": "BSS (fabric-1.21) - v3.12.1",
+		"url": "https://github.com/TheCSMods/mc-better-stats/releases/download/v3.12.1/betterstats-3.12.1+fabric-1.21.jar"
+	},
+	{
 		"name": "BSS (fabric-1.21) - v3.12",
 		"url": "https://github.com/TheCSMods/mc-better-stats/releases/download/v3.12/betterstats-3.12+fabric-1.21.jar"
 	},
