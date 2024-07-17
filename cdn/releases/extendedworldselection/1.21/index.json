@@ -1,5 +1,9 @@
 [
 	{
+		"name": "EWS (fabric-1.21) - v1.0.1",
+		"url": "https://github.com/TheCSMods/mc-ews/releases/download/v1.0.1/extendedworldselection-1.0.1+fabric-1.21.jar"
+	},
+	{
 		"name": "EWS (fabric-1.21) - v1.0",
 		"url": "https://github.com/TheCSMods/mc-ews/releases/download/v1.0/extendedworldselection-1.0+fabric-1.21.jar"
 	}
