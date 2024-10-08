@@ -1,5 +1,5 @@
 {
 	"quickshare_notice": null,
-	"quickshare_gdu": "https://thecsdev.com/api-s/betterstats/quick-share/generate-download-url/",
-	"quickshare_guu": "https://thecsdev.com/api-s/betterstats/quick-share/generate-upload-url/"
+	"quickshare_gdu": "https://thecsdev.com/api-s/bss/qs/gdu/",
+	"quickshare_guu": "https://thecsdev.com/api-s/bss/qs/guu/"
 }
