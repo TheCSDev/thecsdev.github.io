@@ -1,5 +1,5 @@
 {
-	"quickshare_notice": "Due to Cloudflare and 'thecsdev.com' experiencing issues at the moment, this feature is currently under maintenance. Apologies in advance.",
-	"quickshare_gdu": null,
-	"quickshare_guu": null
+	"quickshare_notice": null,
+	"quickshare_gdu": "https://thecsdev.com/api-s/betterstats/quick-share/generate-download-url/",
+	"quickshare_guu": "https://thecsdev.com/api-s/betterstats/quick-share/generate-upload-url/"
 }
