@@ -1,5 +1,9 @@
 [
 	{
+		"name": "TCDC (fabric-1.21.3) - v3.12.4",
+		"url": "https://github.com/TheCSMods/mc-tcdcommons/releases/download/v3.12.4/tcdcommons-3.12.4+fabric-1.21.3.jar"
+	},
+	{
 		"name": "TCDC (fabric-1.21.3) - v3.12.3",
 		"url": "https://github.com/TheCSMods/mc-tcdcommons/releases/download/v3.12.3/tcdcommons-3.12.3+fabric-1.21.3.jar"
 	}
