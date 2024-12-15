@@ -1,9 +1,5 @@
 [
 	{
-		"name": "Minecraft 1.21.4",
-		"url": "https://gh.thecsdev.com/cdn/releases/tcdcommons/1.21.4/index.json"
-	},
-	{
 		"name": "Minecraft 1.21.3",
 		"url": "https://gh.thecsdev.com/cdn/releases/tcdcommons/1.21.3/index.json"
 	},
